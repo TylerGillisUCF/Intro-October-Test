@@ -5,7 +5,7 @@ title:Home
 
 # Welcome!
 
-[tyler.jpg]
+![Tyler Gillis](images/tyler.jpg)
 
 
 ## *CV Tyler Gillis*
@@ -74,3 +74,16 @@ adaptability to ensure success with the task at hand.
 
 -  Collaborated with others within my peer group and those in senior positions in order to
 ensure standards were not only met but constantly being progressed. 
+
+# Tyler Gillis
+## PhD. Student Texts and Technology UCF
+
+### About Me
+
+### Research Intersts
+
+### Publications and/ or Confrences
+
+### Contact
+
+### Follow Me
