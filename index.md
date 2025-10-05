@@ -5,6 +5,9 @@ title:Home
 
 # Welcome!
 
+[tyler.jpg]
+
+
 ## *CV Tyler Gillis*
 
 ### Education 
