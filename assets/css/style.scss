@@ -1,7 +1,7 @@
 --
 ---
 
-@import "{{ site.theme }}";
+@import 'jekyll-theme-midnight';
 header {
 
     background: rgb(235, 234, 234);
@@ -28,24 +28,24 @@ aside a.button {
 
 #main-content h1:before {
 
-    color: lightgreen;
+    color: rgb(51, 4, 28);
 
 }
 
 #main-content h3 {
 
-    color: lightgreen;
+    color: rgb(121, 151, 11);
 
   }
 
   #main-content h4 {
 
-    color: lightgreen;
+    color: rgb(60, 51, 143);
 
   }
 
   #main-content h6 {
 
-    color: lightgreen;
+    color: rgb(2, 202, 252);
 
   }
