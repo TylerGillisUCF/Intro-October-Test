@@ -5,7 +5,7 @@ title:Home
 
 # Welcome!
 
-![Tyler Gillis](images/tyler.jpg)
+![Tyler Gillis](assets/tyler.jpg)
 
 
 ## *CV Tyler Gillis*
