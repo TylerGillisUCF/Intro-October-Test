@@ -7,10 +7,7 @@ title: Projects / Papers / Conferences
 
 ## Echoes of the Oracle
 
-<div class="image-container">
-  <img src="/assets/delphigis.png" alt="Ancient Delphi GIS Reconstruction">
-  <img src="/assets/delphireal.jpg" alt="Ruins of Ancient Delphi">
-</div>
+![Reconstruction of Ancient Delphi Using ArcGIS](/assets/delphigis.png) ![Ruins of Ancient Delphi](/assets/delphireal.jpg)
 
 This project utilizes ArcGIS to digitally reconstruct ancient Delphi, offering an immersive exploration of its sacred landscape. By blending historical research, archaeology, and digital technology, it brings the sanctuary to life, shedding light on its religious, cultural, and political significance. Delphi was more than just a religious center, it was a place where prophecy shaped decision making, where devotion intersected with identity, and where history was inscribed into the very landscape. Through this digital recreation, we gain a deeper understanding of how the ancient world perceived and engaged with this legendary site, allowing us to see Delphi not as a distant ruin but as a vibrant and dynamic space of belief, power, and tradition. Explore the three sections below to gain a deeper understanding of how the ancient world perceived and engaged with this legendary site, in which Delphi is not a distant ruin, but a vibrant and dynamic space of belief, power, and tradition.
 
