@@ -1,5 +1,13 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
+title: Tyler Gillis
+description: PhD Student | Digital Humanities | Public History
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+
+# Additional settings
+author: Tyler Gillis
+email: tyler.gillis@ucf.edu
+
+# Social links (optional)
+github_username: TylerGillisUCF
+linkedin_username: # Add your LinkedIn username if you want
