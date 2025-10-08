@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 ## *CV Tyler Gillis*
 
 ### Education 
