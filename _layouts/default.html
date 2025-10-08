@@ -39,12 +39,11 @@
         </section>
 
         <aside id="sidebar">
-
-            <aside id="sidebar">
-
-          <a href="https://https://github.com/TylerGillisUCF/Intro-October-Test/" class="button">Home</a>
-          <a href="teaching" class="button">Teaching</a>
-          <a href="projects" class="button">Projects</a>
+          <a href="{{ '/' | relative_url }}" class="button">Home</a>
+          <a href="{{ '/teaching' | relative_url }}" class="button">Teaching</a>
+          <a href="{{ '/projects' | relative_url }}" class="button">Projects</a>
+          <a href="{{ '/CV' | relative_url }}" class="button">CV</a>
+          
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>
