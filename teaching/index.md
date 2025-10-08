@@ -23,3 +23,40 @@ I believe in meeting students where they are academically while maintaining rigo
 
 - Brief Experience as a Paraprofessional
 
+## Core Teaching Skills
+
+### Instructional Design & Delivery
+- Active learning strategies and inquiry-based instruction
+- Primary source analysis and historical thinking exercises
+- Differentiated instruction for diverse learning needs
+- Clear communication of complex historical concepts
+- Structured feedback and formative assessment techniques
+
+### Technology Integration
+- ArcGIS and digital mapping for spatial history lessons
+- Interactive multimedia presentations and digital storytelling
+- Learning management systems (Canvas, Blackboard, etc.)
+- Digital humanities tools for student research projects
+- Online and hybrid course facilitation
+
+### Classroom Management & Leadership
+- Creating inclusive and respectful learning environments
+- Conflict resolution and de-escalation techniques
+- Group facilitation and collaborative learning activities
+- Time management and lesson pacing
+- Veteran and non-traditional student support
+
+### Assessment & Student Development
+- Multiple assessment methods (projects, papers, presentations, exams)
+- Rubric design and transparent grading criteria
+- One-on-one student conferences and mentoring
+- Accommodations for students with exceptionalities
+- Growth mindset cultivation and academic coaching
+
+### Specialized Competencies
+- Multicultural and inclusive pedagogy
+- Understanding adolescent development and learning psychology
+- Connecting historical content to contemporary issues
+- Fostering critical thinking and media literacy
+- Veterans' transition support and mentorship
+
