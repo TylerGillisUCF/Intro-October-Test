@@ -21,12 +21,7 @@ Hello, my name is Tyler! I'm originally from a small town in Nebraska called Fre
 - Digital Methods
 - Interaction and Pedagogy
 - Pop Cultural
-### Publications and/ or Confrences
-“*The Effects of Luxury Textiles on Medieval Europe*”, 50th Annual European Studies Conference
-University of Nebraska Omaha, October 2025.
 
-“*Echoes of the Oracle: A Spatial Study of Delphi*”, Classical Association Conference, University
-of Manchester, April 2026. – (Conference Proposal Submitted) 
 ### Contact
 Email - tyler.gillis@ucf.edu
 ### Follow Me
