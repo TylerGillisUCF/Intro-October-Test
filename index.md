@@ -14,7 +14,7 @@ title: Home
 
 I'm a PhD student in Texts and Technology at the University of Central Florida, specializing in Public History and Digital Humanities.  My research explores how digital methods and spatial technologies can transform our understanding of historical spaces and make the past more accessible to contemporary audiences.
 
-Before transitioning to academia, I served as a Sergeant and Squad Leader in the United States Marine Corps (2015-2019), where I developed leadership skills and analytical approaches that now inform my work in education and research.  My military experience taught me the importance of clear communication, adaptability, and meeting people where they are—principles that guide my teaching philosophy today.
+Before transitioning to academia, I served as a Sergeant and Squad Leader in the United States Marine Corps (2015-2019), where I developed leadership skills and analytical approaches that now inform my work in education and research.  My military experience taught me the importance of clear communication, adaptability, and meeting people where they are, principles that guide my teaching philosophy today.
 
 I hold a Master's degree in History from the University of Nebraska Omaha (2025), where I was recognized as the Outstanding Graduate Student and received the George & Virginia Dare Shuflata Master's Graduate Fellowship. I also earned dual bachelor's degrees in History and Classics from the College of Charleston (2022), graduating Magna Cum Laude.
 
