@@ -24,6 +24,7 @@ Hello, my name is Tyler! I'm originally from a small town in Nebraska called Fre
 
 ### Contact
 Email - tyler.gillis@ucf.edu
+
 ### Follow Me
 [Github] - Coming Soon 
 
