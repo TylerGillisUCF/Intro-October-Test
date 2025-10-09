@@ -31,7 +31,7 @@ The chronological proximity of these scrapbooks to the university's founding mak
 
 This project aims to analyze these six surviving scrapbooks and present a digital exhibition that reconstructs the daily realities, cultural values, and social dynamics that defined collegiate life in the Midwest during the 1910s. Through thematic organization of materials drawn from across all six collections, visitors can explore multiple facets of this historical moment and gain insight into what it meant to be a college student during this transformative period in American higher education.
 
-**→ [Explore the Full Project: The College Experience (1910-1919)](https://arcg.is/jP49K0)**
+### [**🏛️ Explore The College Experience (1910-1919) →**](https://arcg.is/jP49K0)
 
 
 
@@ -48,7 +48,7 @@ Using modern GIS software, the researcher overlaid historical HOLC redlining map
 This analysis confirms that redlining's discriminatory geographic boundaries created structural inequalities that persist nearly a century later, demonstrating how historical policy decisions continue to determine access to resources and opportunities in American cities, and underscoring the value of GIS technology as a tool for historiographic analysis and urban justice research.
 
 
-**→ [Explore the Full Project: Redlining and Omaha - Using GIS to Understand History](https://arcg.is/14HPG50)**
+### [**🗺️ View Redlining and Omaha Project →**](https://arcg.is/14HPG50)
 
 ---
 
