@@ -18,7 +18,7 @@ Delphi was more than just a religious center, it was a place where prophecy shap
 
 Explore the three sections below to gain a deeper understanding of how the ancient world perceived and engaged with this legendary site, in which Delphi is not a distant ruin, but a vibrant and dynamic space of belief, power, and tradition.
 
-**[Explore Echoes of the Oracle →](https://digitalhistory.unomaha.community/echoes-of-the-oracle/)**
+**→ [Explore the Full Project: Echoes of the Oracle](https://digitalhistory.unomaha.community/echoes-of-the-oracle/)**
 
 
 ## The College Experience (1910-1919)
@@ -31,13 +31,15 @@ The chronological proximity of these scrapbooks to the university's founding mak
 
 This project aims to analyze these six surviving scrapbooks and present a digital exhibition that reconstructs the daily realities, cultural values, and social dynamics that defined collegiate life in the Midwest during the 1910s. Through thematic organization of materials drawn from across all six collections, visitors can explore multiple facets of this historical moment and gain insight into what it meant to be a college student during this transformative period in American higher education.
 
-**[Explore The College Experience (1910-1919) →](https://arcg.is/jP49K0)**
+**→ [Explore the Full Project: The College Experience (1910-1919)](https://arcg.is/jP49K0)**
+
 
 
 
 ## Redlining and Omaha: Using GIS to Understand History 
 
-![Redlining Map of Omaha Nebraska](../assets/red.webp\)
+![Redlining Map of Omaha Nebraska](../assets/red.webp)
+
 
 This GIS project investigates the enduring legacy of 1930s redlining in Omaha, Nebraska, by analyzing how discriminatory housing policies from the Great Depression era continue to shape urban inequality today. During the New Deal, the Home Owners' Loan Corporation (HOLC) created color-coded maps that systematically labeled minority neighborhoods as "hazardous" investment areas, a practice that was subsequently adopted by the Federal Housing Administration and other institutions, cementing decades of disinvestment. 
 
@@ -46,7 +48,7 @@ Using modern GIS software, the researcher overlaid historical HOLC redlining map
 This analysis confirms that redlining's discriminatory geographic boundaries created structural inequalities that persist nearly a century later, demonstrating how historical policy decisions continue to determine access to resources and opportunities in American cities, and underscoring the value of GIS technology as a tool for historiographic analysis and urban justice research.
 
 
-**[Redlining and Omaha: Using GIS to Understand History →](https://arcg.is/14HPG50)**
+**→ [Explore the Full Project: Redlining and Omaha - Using GIS to Understand History](https://arcg.is/14HPG50)**
 
 ---
 
