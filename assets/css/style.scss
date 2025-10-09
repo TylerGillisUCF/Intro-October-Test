@@ -124,3 +124,14 @@ aside a.button:hover {
     color: #4a5568;
     font-style: italic;
 }
+/* Remove the forward slashes before headings */
+#main-content h1:before,
+#main-content h2:before {
+    content: none !important;
+}
+
+/* Optional: If you want to remove padding that was there for the slash */
+#main-content h1,
+#main-content h2 {
+    padding-left: 0 !important;
+}
