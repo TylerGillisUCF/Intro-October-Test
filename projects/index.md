@@ -18,7 +18,7 @@ Delphi was more than just a religious center, it was a place where prophecy shap
 
 Explore the three sections below to gain a deeper understanding of how the ancient world perceived and engaged with this legendary site, in which Delphi is not a distant ruin, but a vibrant and dynamic space of belief, power, and tradition.
 
-**→ [Explore the Full Project: Echoes of the Oracle](https://digitalhistory.unomaha.community/echoes-of-the-oracle/)**
+### [**📍 Explore Echoes of the Oracle →**](https://digitalhistory.unomaha.community/echoes-of-the-oracle/)
 
 
 ## The College Experience (1910-1919)
